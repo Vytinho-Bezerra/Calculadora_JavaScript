@@ -1,0 +1,27 @@
+form {
+    border: 22px double red;
+    width: 400px;
+    padding: 30px;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18pt;
+}
+#valor1 {
+    font-size: 18pt;
+    border: 1px solid;
+    background-color: yellow;
+    width: 260px;
+}
+#valor2 {
+    font-size: 18pt;
+    border: 1px solid;
+    background-color: yellow;
+    width: 260px;
+}
+#resultado {
+    font-size: 18pt;
+    border: 1px solid;
+    background-color: yellow;
+    width: 280px;
+}
